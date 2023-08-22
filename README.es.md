@@ -9,6 +9,7 @@ Vea también el sitio web [definitelytyped.org](http://definitelytyped.org), aun
 Vea el [Manual de TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html).
 
 
+
 ## ¿Cómo los obtengo?
 
 ### npm
